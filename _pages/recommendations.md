@@ -7,6 +7,8 @@ redirect_from:
   - /recommendations
 ---
 
+Jack Gafford
+===
 * 109 Cavalry Circle
   League City, Texas, 77573
   Senior Systems Engineer, Boeing, Houston Texas
