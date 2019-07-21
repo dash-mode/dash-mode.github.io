@@ -1,3 +1,12 @@
+---
+layout: archive
+title:
+permalink: /recommendations/
+author_profile: true
+redirect_from:
+  - /recommendations
+---
+
 Jack Gafford
 =====
 
