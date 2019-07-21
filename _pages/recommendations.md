@@ -11,7 +11,7 @@ redirect_from:
 
 Jack Gafford
 ===
-
+* [Letter of Recommendation](https://dash-mode.github.io/files/Jack Gafford - Letter of Recommendation.pdf)
 * To whom it may concern,
 
   I would like to offer this letter of recommendation for Mr. Dibyadarshi Dash. To do so, may I
