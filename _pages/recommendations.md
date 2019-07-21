@@ -44,7 +44,7 @@ Jack Gafford
   
   Please accept this letter of recommendation and feel free to query Dibyadarshi on the more
   interesting aspects of the design competition. Please let me know if you have any questions.
-  Best Regards,
+* Best Regards,
   ~
   John (Jack) Gafford
   gafways@comcast.net
