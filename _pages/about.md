@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+* Date of Birth - October 16, 1999
+* Gender - Male
+* Pronouns - He, His, Her
+
 Allow me to introduce myself...
 ===
 * Greetings! My name is  __Dash__.
