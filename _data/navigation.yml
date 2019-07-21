@@ -6,3 +6,6 @@ main:
     
   - title: "Recommendations"
     url: /recommendations/
+
+  - title: "Certificates"
+    url: /certificates/
