@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.certificates reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 MongoDB University - M001
 ===
 
