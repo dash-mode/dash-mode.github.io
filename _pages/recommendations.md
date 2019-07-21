@@ -11,11 +11,6 @@ redirect_from:
 
 Jack Gafford
 ===
-* 109 Cavalry Circle
-  League City, Texas, 77573
-  Senior Systems Engineer, Boeing, Houston Texas
-
-* Subject: Letter of Recommendation for Mr. Dibyadarshi Dash
 
 * To whom it may concern,
 
@@ -44,8 +39,3 @@ Jack Gafford
   
   Please accept this letter of recommendation and feel free to query Dibyadarshi on the more
   interesting aspects of the design competition. Please let me know if you have any questions.
-* Best Regards,
-  ~
-  John (Jack) Gafford
-  gafways@comcast.net
-  Cell (832) 425-7899
