@@ -11,8 +11,8 @@ redirect_from:
 
 MongoDB University 
 ===
-[M001](https://dash-mode.github.io/_certificates/MongoDB University - M001.pdf)
+[M001](https://dash-mode.github.io/files/MongoDB University - M001.pdf)
 
 Research Internship - Indian Institute of Techonology, Delhi
 ===
-[Certificate](https://dash-mode.github.io/_certificates/IIT Delhi Internship.pdf)
+[Certificate](https://dash-mode.github.io/files/IIT Delhi Internship.pdf)
