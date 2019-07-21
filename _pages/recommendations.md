@@ -7,6 +7,8 @@ redirect_from:
   - /recommendations
 ---
 
+{% include base_path %}
+
 Jack Gafford
 ===
 * 109 Cavalry Circle
