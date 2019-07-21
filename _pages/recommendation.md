@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Recommendations_Dash"
-permalink: /recommendation/
+permalink: /recommendations/
 author_profile: true
 redirect_from:
   - /recommendations
