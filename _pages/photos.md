@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-[[/images/avatar_dash.png|alt = image]]
+[[https://dash-mode.github.io/images/avatar_dash.png|alt = image]]
