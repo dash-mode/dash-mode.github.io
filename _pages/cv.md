@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+[You can find my resume attached here too](https://dash-mode.github.io/files/Resume_Dash.pdf)
 
 Education
 ======
