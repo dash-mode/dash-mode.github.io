@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dibyadarshi Dash"
+title                    : "Dash"
 title_separator          : "-"
 name                     : &name "Dibyadarshi Dash"
 description              : &description "University of Michigan - Computer Science and Engineering"
