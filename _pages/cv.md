@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Michigan - Ann Arbor, 2017 - 2021
+* Major :- Computer Science And Engineering (College of Engineering)
+* GPA :- 3.5
+* Honors and Awards :- William J. Branstrom Freshman Prize (2018), University Honors (2017)
+* Courses :- Operating Systems, Web Systems, Data Structures and Algorithms, Linear Algebra, Computer Organization, Discrete Math, Honors Mechanics, Intro to Cognitive Science 
+* Certificates :- M001-MongoDB Basics (MongoDB University)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* GyanSys Inc. - IT Intern (June 2019 – August 2019)
+  * Build a SAPUI5 Fiori Mobile App with features such as platform independence, Cordova/Kapsel plugins, integration with S4D data service, and publish it on the SAP Store.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Indian Institute Of Technology, Delhi - Research Intern (July 2018 – August 2018)__
+  * Researched on peer to peer energy distribution between electric vehicles while maximizing social welfare. Implemented the iterative double auction mechanism in Python.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Projects and Research 
+=====
+* Alexa-Facebook Marketplace (Summer 2019 - ongoing)
+  * Create an amazon skill that connects to Facebook marketplace using the Facebook graph API.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* AzureBot (Summer 2019)
+  * Chatbot created with Microsoft Azure Services.
+
+* Instagram Clone - EECS 485 (Web Systems)  (Jan 2019 – April 2019)
+  * An Instagram clone implemented with a templated static site generator, and server-side and client-side dynamic pages.
+
+* Map Reduce - EECS 485 (Web Systems)  (Jan 2019 – April 2019)
+  * Implemented a single machine, multi-process, multi-threaded server that will execute user-submitted MapReduce jobs.
+
+* Wikipedia Search Engine - EECS 485 (Web Systems) (Jan 2019 – April 2019)
+  * Build a scalable search engine that is similar to a commercial search engine. Information retrieval based on both tf-idf and PageRank scores. A new search engine interface with two special features: user-driven scoring and summarization.
+
+* Free Speech Technology - Development team, Multidisciplinary Design Program
+  * Develop Android/iOS microblogging applications supporting direct and transitive phone-to-phone communication that is resistant to outages, blocking, censorship, and surveillance.
+ 
+Skills 	
+=====
+* Languages - C/C++, Python, Java, HTML, CSS, JavaScript, ReactJS, Android Java, SAPUI5
+* Technologies - Xcode, Visual Studio, NetBeans, Intellij IDEA, SAP Cloud platform, Bash Scripting, SQL, Git
+
+Activities 	
+=====
+* Co-Founder and Former Head, Research and Development - Blockchain at Michigan
+  * Responsible for research and development initiatives. Conducted workshops, taught basics of Ethereum and solidity to students and held training intensive lectures for our cohort.
