@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-MongoDB University - M001 
+MongoDB University 
 ===
-[M001](_certificates/IIT Delhi Internship.pdf)
+[M001](https://dash-mode.github.io/_certificates/MongoDB University - M001.pdf)
 
 Research Internship - Indian Institute of Techonology, Delhi
 ===
+[Certificate](https://dash-mode.github.io/_certificates/IIT Delhi Internship.pdf)
