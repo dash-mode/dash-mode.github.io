@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* Allow me to introduce myself...
-  Greetings!
-  My name is  __Dash__.
-  I am currently a junior studying __Computer Science and Engineering__ in College of Engineering, __University of Michigan, Ann Arbor__.
+Allow me to introduce myself...
+===
+Greetings!
+My name is  __Dash__.
+I am currently a junior studying __Computer Science and Engineering__ in College of Engineering, __University of Michigan, Ann Arbor__.
