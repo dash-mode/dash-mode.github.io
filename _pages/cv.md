@@ -28,6 +28,8 @@ Experience
   
 Projects and Research 
 =====
+_You may go to https://github.com/dash-mode?tab=repositories to view my public repositories_
+
 * Alexa-Facebook Marketplace (Summer 2019 - ongoing)
   * Create an amazon skill that connects to Facebook marketplace using the Facebook graph API.
 
