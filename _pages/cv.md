@@ -23,7 +23,8 @@ Experience
 * GyanSys Inc. - IT Intern (June 2019 – August 2019)
   * Build a SAPUI5 Fiori Mobile App with features such as platform independence, Cordova/Kapsel plugins, integration with S4D data service, and publish it on the SAP Store.
 
-* Indian Institute Of Technology, Delhi - Research Intern (July 2018 – August 2018)__
+* Indian Institute Of Technology, Delhi - Research Intern (July 2018 – August 2018)
+  * [Energy Blockchain](https://github.com/dash-mode/Energy-blockchain)
   * Researched on peer to peer energy distribution between electric vehicles while maximizing social welfare. Implemented the iterative double auction mechanism in Python.
   
 Projects and Research 
@@ -32,6 +33,7 @@ Projects and Research
   * Create an amazon skill that connects to Facebook marketplace using the Facebook graph API.
 
 * AzureBot (Summer 2019)
+  * [Azure Bot](https://github.com/dash-mode/azureBot)
   * Chatbot created with Microsoft Azure Services.
 
 * Instagram Clone - EECS 485 (Web Systems)  (Jan 2019 – April 2019)
@@ -49,7 +51,7 @@ Projects and Research
 Skills 	
 =====
 * Languages - C/C++, Python, Java, HTML, CSS, JavaScript, ReactJS, Android Java, SAPUI5
-* Technologies - Xcode, Visual Studio, NetBeans, Intellij IDEA, SAP Cloud platform, Bash Scripting, SQL, Git
+* Technologies - Xcode, Visual Studio, NetBeans, Intellij IDEA, SAP Cloud platform, Bash Scripting, SQL, oData Services, Git
 
 Competitions
 =====
