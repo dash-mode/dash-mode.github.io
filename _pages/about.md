@@ -9,7 +9,7 @@ redirect_from:
 ---
 * Date of Birth - October 16, 1999
 * Gender - Male
-* Pronouns - He, His, Her
+* Pronouns - He, His, Him
 
 Allow me to introduce myself...
 ===
