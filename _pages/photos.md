@@ -14,8 +14,6 @@ redirect_from:
 
 * [Blockchain at Michigan](https://dash-mode.github.io/images/teaching_BAM.png)
 
-* [EECS 183 Showcase - Connect 4 AI](https://dash-mode.github.io/images/EECS 183 Showcase.png)
-
 * [International Space Settlement Design Competition-Finals](https://dash-mode.github.io/images/ISSDC Finals.png)
 
 * [Meeting with the Indian Prime Minister](https://dash-mode.github.io/images/PM_Modi.png)
