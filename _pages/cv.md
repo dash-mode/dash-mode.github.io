@@ -14,9 +14,6 @@ Education
 ======
 * University of Michigan - Ann Arbor, 2017 - 2021
 * Major :- Computer Science And Engineering (College of Engineering)
-* GPA :- 3.5
-* Honors and Awards :- William J. Branstrom Freshman Prize (2018), University Honors (2017)
-* Courses :- Operating Systems(currently enrolled), Web Systems, Data Structures and Algorithms, Linear Algebra, Computer Organization, Discrete Math, Honors Mechanics, Intro to Cognitive Science 
 
 Experience
 ======
