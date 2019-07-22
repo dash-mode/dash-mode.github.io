@@ -22,5 +22,5 @@ redirect_from:
 
 * [Asian Regional Space Settlement Design Competition - Winners Trophy](https://dash-mode.github.io/images/ARSSDC_winner_trophy.png)
 
-* [Delhi Public School, R.K.Puram - Wall of Fame](https://dash-mode.github.io/images/wall_of_fame.png)
+* [Delhi Public School, R.K.Puram - Wall of Fame - Head Boy, Student Council](https://dash-mode.github.io/images/wall_of_fame.png)
 
