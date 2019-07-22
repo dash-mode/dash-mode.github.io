@@ -58,5 +58,5 @@ Activities and Competitions
 
 * Amazon Employer Challenge - 2018
   * Amazon Operations Case Study : University of Michigan.
-  * The task was to come up with new recognition program that would increase the productivity of associates and would also value their meaningful work.
+  * The task was to propose a new recognition program that would increase the productivity of associates and would also value their meaningful work.
   * Part of the team selected for the final round.
