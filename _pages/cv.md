@@ -72,4 +72,5 @@ Competitions
 Activities
 =====
 * Co-Founder and Former Head, Research and Development - Blockchain at Michigan
+  * [Blockchain at Michigan](https://www.michiganblockchain.org/)
   * Responsible for research and development initiatives. Conducted workshops, taught basics of Ethereum and solidity to students and held training intensive lectures for our cohort.
