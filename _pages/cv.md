@@ -59,13 +59,13 @@ Competitions
   * Part of the team selected for the final round.
   
 * Asian Regional Space Settlement Design Competition - 2016
-  * https://arssdc.org/
+  * [ARSSDC](https://arssdc.org/)
   * This contest puts high school students in the shoes of aerospace industry engineers designing a city in space that will be a home for over 10,000 people. Each year the Competition organizers develop a new design concept with its own special requirements. Contest teams work together to create a 40-page report (see samples from index) that addresses the issues and communicates their ideas and designs.
   * Position held - Systems Engineer of the mock company
   * Winners - Finalists for the International Final
 
 * International Space Settlement Design Competition - 2016
-  * https://spaceset.org/
+  * [ISSDC](https://spaceset.org/)
   * World’s premier aerospace engineering competition for the high school students. Every year, hundreds of students from across the world submit design proposals for participating in the illustrious ISSDC Finals, held annually at the Kennedy Space Centre in Florida, USA
   * Runners up
 
