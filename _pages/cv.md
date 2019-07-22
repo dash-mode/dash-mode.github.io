@@ -51,12 +51,23 @@ Skills
 * Languages - C/C++, Python, Java, HTML, CSS, JavaScript, ReactJS, Android Java, SAPUI5
 * Technologies - Xcode, Visual Studio, NetBeans, Intellij IDEA, SAP Cloud platform, Bash Scripting, SQL, Git
 
-Activities and Competitions
+Competitions
 =====
-* Co-Founder and Former Head, Research and Development - Blockchain at Michigan
-  * Responsible for research and development initiatives. Conducted workshops, taught basics of Ethereum and solidity to students and held training intensive lectures for our cohort.
-
 * Amazon Employer Challenge - 2018
   * Amazon Operations Case Study : University of Michigan.
   * The task was to propose a new recognition program that would increase the productivity of associates and would also value their meaningful work.
   * Part of the team selected for the final round.
+  
+* Asian Regional Space Settlement Design Competition - 2016
+  * This contest puts high school students in the shoes of aerospace industry engineers designing a city in space that will be a home for over 10,000 people. Each year the Competition organizers develop a new design concept with its own special requirements. Contest teams work together to create a 40-page report (see samples from index) that addresses the issues and communicates their ideas and designs.
+  * Position held - Systems Engineer of the mock company
+  * Winners - Finalists for the International Final
+
+* International Space Settlement Design Competition - 2016
+  * World’s premier aerospace engineering competition for the high school students. Every year, hundreds of students from across the world submit design proposals for participating in the illustrious ISSDC Finals, held annually at the Kennedy Space Centre in Florida, USA
+  * Runners up
+
+Activities
+=====
+* Co-Founder and Former Head, Research and Development - Blockchain at Michigan
+  * Responsible for research and development initiatives. Conducted workshops, taught basics of Ethereum and solidity to students and held training intensive lectures for our cohort.
