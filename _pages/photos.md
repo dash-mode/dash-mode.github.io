@@ -21,6 +21,7 @@ redirect_from:
 * [Meeting with the Indian Prime Minister](https://dash-mode.github.io/images/PM_Modi.png)
 
 * [Asian Regional Space Settlement Design Competition - Winners Trophy](https://dash-mode.github.io/images/ARSSDC_winner_trophy.png)
+  * Fun Fact - that's an actual meteorite - Camp del Cielo Iron Meteorite Unearthed: Gran Chaco Gualamba, Chaco, Argentina Iron: Octahedrite
 
 * [Delhi Public School, R.K.Puram - Wall of Fame - Head Boy, Student Council](https://dash-mode.github.io/images/wall_of_fame.png)
 
