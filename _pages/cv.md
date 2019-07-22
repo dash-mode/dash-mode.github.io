@@ -51,7 +51,12 @@ Skills
 * Languages - C/C++, Python, Java, HTML, CSS, JavaScript, ReactJS, Android Java, SAPUI5
 * Technologies - Xcode, Visual Studio, NetBeans, Intellij IDEA, SAP Cloud platform, Bash Scripting, SQL, Git
 
-Activities 	
+Activities and Competitions
 =====
 * Co-Founder and Former Head, Research and Development - Blockchain at Michigan
   * Responsible for research and development initiatives. Conducted workshops, taught basics of Ethereum and solidity to students and held training intensive lectures for our cohort.
+
+* Amazon Employer Challenge - 2018
+  * Amazon Operations Case Study : University of Michigan.
+  * The task was to come up with new recognition program that would increase the productivity of associates and would also value their meaningful work.
+  * Part of the team selected for the final round.
