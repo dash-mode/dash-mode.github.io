@@ -10,7 +10,7 @@ redirect_from:
 
 * [William Branstrom Freshman Prize](https://dash-mode.github.io/images/avatar_dash.png)
 
-* [Amazon Innvovation Challenge](https://dash-mode.github.io/images/Amazon Innovation Challenge.png)
+* [Amazon Employer Challenge](https://dash-mode.github.io/images/Amazon Innovation Challenge.png)
 
 * [EECS 183 Showcase - Connect 4 AI](https://dash-mode.github.io/images/EECS 183 Showcase.png)
 
