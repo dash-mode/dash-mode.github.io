@@ -11,7 +11,7 @@ redirect_from:
 * [William Branstrom Freshman Prize](https://dash-mode.github.io/images/avatar_dash.png)
 
 * [Amazon Employer Challenge](https://dash-mode.github.io/images/Amazon Innovation Challenge.png)
-  [Instagram Post - Umich Career Center](https://www.instagram.com/p/BpmmVTFFC_R/?igshid=j5uuzrnzt33s)
+  * [Instagram Post - Umich Career Center](https://www.instagram.com/p/BpmmVTFFC_R/?igshid=j5uuzrnzt33s)
 
 * [Blockchain at Michigan](https://dash-mode.github.io/images/teaching_BAM.png)
 
