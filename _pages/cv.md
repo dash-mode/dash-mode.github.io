@@ -60,7 +60,7 @@ Competitions
 * Asian Regional Space Settlement Design Competition - 2016
   * [ARSSDC](https://arssdc.org/)
   * This contest puts high school students in the shoes of aerospace industry engineers designing a city in space that will be a home for over 10,000 people. Each year the Competition organizers develop a new design concept with its own special requirements. Contest teams work together to create a 40-page report (see samples from index) that addresses the issues and communicates their ideas and designs.
-  * Position held - Systems Engineer of the mock company
+  * Position held - Systems Engineer of Rockdonnel
   * Winners - Finalists for the International Final
 
 * International Space Settlement Design Competition - 2016
