@@ -43,6 +43,6 @@ Jack Gafford
   
 Gyansys
 ======
-*[Letter of Recommendation](https://dash-mode.github.io/files/GyanSys - Dibyadarshi Dash.pdf)
+  *[Letter of Recommendation](https://dash-mode.github.io/files/GyanSys - Dibyadarshi Dash.pdf)
   
   
