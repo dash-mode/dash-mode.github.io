@@ -23,6 +23,9 @@ Experience
 * Indian Institute Of Technology, Delhi - Research Intern (July 2018 – August 2018)
   * [Energy Blockchain](https://github.com/dash-mode/Energy-blockchain)
   * Researched on peer to peer energy distribution between electric vehicles while maximizing social welfare. Implemented the iterative double auction mechanism in Python.
+
+* Free Speech Technology - Development team, Multidisciplinary Design Program
+  * Develop Android/iOS microblogging applications supporting direct and transitive phone-to-phone communication that is resistant to outages, blocking, censorship, and surveillance.
   
 Projects and Research 
 =====
@@ -41,9 +44,6 @@ Projects and Research
 
 * Wikipedia Search Engine - EECS 485 (Web Systems) (Jan 2019 – April 2019)
   * Build a scalable search engine that is similar to a commercial search engine. Information retrieval based on both tf-idf and PageRank scores. A new search engine interface with two special features: user-driven scoring and summarization.
-
-* Free Speech Technology - Development team, Multidisciplinary Design Program
-  * Develop Android/iOS microblogging applications supporting direct and transitive phone-to-phone communication that is resistant to outages, blocking, censorship, and surveillance.
  
 Skills 	
 =====
