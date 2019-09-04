@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Gyansys
+======
+* [Letter of Recommendation](https://dash-mode.github.io/files/GyanSys - Dibyadarshi Dash.pdf)
+
 Jack Gafford
 ===
 * [Letter of Recommendation](https://dash-mode.github.io/files/Jack Gafford - Letter of Recommendation.pdf)
@@ -39,10 +43,3 @@ Jack Gafford
   
   Please accept this letter of recommendation and feel free to query Dibyadarshi on the more
   interesting aspects of the design competition. Please let me know if you have any questions.
-  
-  
-Gyansys
-======
-* [Letter of Recommendation](https://dash-mode.github.io/files/GyanSys - Dibyadarshi Dash.pdf)
-  
-  
