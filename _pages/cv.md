@@ -35,6 +35,12 @@ Projects and Research
 * AzureBot (Summer 2019)
   * [Azure Bot](https://github.com/dash-mode/azureBot)
   * Chatbot created with Microsoft Azure Services.
+  
+* Memory Manager - EECS 482 (Operating Systems)  (Oct 2019 – Nov 2019)
+  * Design and implement a pager, which is the part of the kernel that manages application processes' virtual address spaces.   * Utilized page tables, copy-on-write, “FIFO with second-chance” algorithm etc.
+
+* Thread Library - EECS 482 (Operating Systems)  (Sept 2019 – Oct 2019)
+  * Creation of a multiple processor capable thread library, including classes to represent mutex, cv, thread, and CPU in C++.
 
 * Instagram Clone - EECS 485 (Web Systems)  (Jan 2019 – April 2019)
   * An Instagram clone implemented with a templated static site generator, and server-side and client-side dynamic pages.
