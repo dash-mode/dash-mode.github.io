@@ -18,6 +18,3 @@ Allow me to introduce myself...
 * I am from __Delhi NCR, India__.
 * I aspire to work on creating solutions which aim at maximizing social welfare. 
 * My interests lie in Software Engineering, Conversational AI, FinTech, Web Development, Blockchain, etc.
-
-Please go to other tabs to learn more about me
-===
