@@ -37,7 +37,8 @@ Projects and Research
   * Chatbot created with Microsoft Azure Services.
   
 * Memory Manager - EECS 482 (Operating Systems)  (Oct 2019 – Nov 2019)
-  * Design and implement a pager, which is the part of the kernel that manages application processes' virtual address spaces.   * Utilized page tables, copy-on-write, “FIFO with second-chance” algorithm etc.
+  * Design and implement a pager, which is the part of the kernel that manages application processes' virtual address spaces.
+  * Utilized page tables, copy-on-write, “FIFO with second-chance” algorithm etc.
 
 * Thread Library - EECS 482 (Operating Systems)  (Sept 2019 – Oct 2019)
   * Creation of a multiple processor capable thread library, including classes to represent mutex, cv, thread, and CPU in C++.
