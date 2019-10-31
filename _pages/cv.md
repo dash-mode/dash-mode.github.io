@@ -55,7 +55,7 @@ Projects and Research
 Skills 	
 =====
 * Languages - C/C++, Python, Java, HTML, CSS, JavaScript, ReactJS, Android Java, SAPUI5
-* Technologies - Xcode, Visual Studio, NetBeans, Intellij IDEA, SAP Cloud platform, Bash Scripting, SQL, oData Services, Git
+* Technologies - Xcode, Visual Studio, NetBeans, Intellij IDEA, SAP Cloud platform, Bash Scripting, SQL, oData Services, Git, MongoDB
 
 Competitions
 =====
