@@ -17,7 +17,7 @@ Education
 
 Experience
 ======
-* GyanSys Inc. - IT Intern (June 2019 – August 2019)
+* GyanSys Inc. - Software Engineering Intern (June 2019 – August 2019)
   * Build a SAPUI5 Fiori Mobile App with features such as platform independence, Cordova/Kapsel plugins, integration with S4D data service, and publish it on the SAP Store.
 
 * Indian Institute Of Technology, Delhi - Research Intern (July 2018 – August 2018)
