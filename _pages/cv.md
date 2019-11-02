@@ -18,7 +18,9 @@ Education
 Experience
 ======
 * GyanSys Inc. - Software Engineering Intern (June 2019 – August 2019)
-  * Build a SAPUI5 Fiori Mobile App with features such as platform independence, Cordova/Kapsel plugins, integration with S4D data service, and publish it on the SAP Store.
+  * Developed SAPUI5 Web Applications on the SAP Cloud Platform
+  * Published a Fiori Mobile Application on the SAP App Store with features such as Platform Independence, Cordova, Kapsel
+plugins, S4D data service integration and a chatbot built on Microsoft Azure.
 
 * Indian Institute Of Technology, Delhi - Research Intern (July 2018 – August 2018)
   * [Energy Blockchain](https://github.com/dash-mode/Energy-blockchain)
