@@ -25,7 +25,13 @@ plugins, S4D data service integration and a chatbot built on Microsoft Azure.
 * Indian Institute Of Technology, Delhi - Research Intern (July 2018 – August 2018)
   * [Energy Blockchain](https://github.com/dash-mode/Energy-blockchain)
   * Researched on peer to peer energy distribution between electric vehicles while maximizing social welfare. Implemented the iterative double auction mechanism in Python.
-  
+
+* Co-Founder and Former Head, Research and Development - Blockchain at Michigan
+  * [Blockchain at Michigan](https://www.michiganblockchain.org/)
+  * Responsible for research and development initiatives. Conducted workshops, taught basics of Ethereum and solidity to students and held training intensive lectures for our cohort.
+
+Research
+=====
 * Future of Programming Lab – Hazel Project
   * https://www.notion.so/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1
   * FP Lab at the University of Michigan designs next-generation user interfaces for next-generation programming languages 
@@ -34,11 +40,7 @@ plugins, S4D data service integration and a chatbot built on Microsoft Azure.
 * Free Speech Technology - Development team, Multidisciplinary Design Program
   * Develop Android/iOS microblogging applications supporting direct and transitive phone-to-phone communication that is resistant to outages, blocking, censorship, and surveillance.
   
-* Co-Founder and Former Head, Research and Development - Blockchain at Michigan
-  * [Blockchain at Michigan](https://www.michiganblockchain.org/)
-  * Responsible for research and development initiatives. Conducted workshops, taught basics of Ethereum and solidity to students and held training intensive lectures for our cohort.
-  
-Projects and Research 
+Projects
 =====
 * Alexa-Facebook Marketplace (Summer 2019 - ongoing)
   * Create an amazon skill that connects to Facebook marketplace using the Facebook graph API.
