@@ -25,9 +25,18 @@ plugins, S4D data service integration and a chatbot built on Microsoft Azure.
 * Indian Institute Of Technology, Delhi - Research Intern (July 2018 – August 2018)
   * [Energy Blockchain](https://github.com/dash-mode/Energy-blockchain)
   * Researched on peer to peer energy distribution between electric vehicles while maximizing social welfare. Implemented the iterative double auction mechanism in Python.
+  
+* Future of Programming Lab – Hazel Project
+  * https://www.notion.so/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1
+  * FP Lab at the University of Michigan designs next-generation user interfaces for next-generation programming languages 
+  * Hazel - live functional programming environment that is able to understand, manipulate, and even run incomplete programs, i.e. programs with holes.
 
 * Free Speech Technology - Development team, Multidisciplinary Design Program
   * Develop Android/iOS microblogging applications supporting direct and transitive phone-to-phone communication that is resistant to outages, blocking, censorship, and surveillance.
+  
+* Co-Founder and Former Head, Research and Development - Blockchain at Michigan
+  * [Blockchain at Michigan](https://www.michiganblockchain.org/)
+  * Responsible for research and development initiatives. Conducted workshops, taught basics of Ethereum and solidity to students and held training intensive lectures for our cohort.
   
 Projects and Research 
 =====
@@ -38,26 +47,33 @@ Projects and Research
   * [Azure Bot](https://github.com/dash-mode/azureBot)
   * Chatbot created with Microsoft Azure Services.
   
-* Memory Manager - EECS 482 (Operating Systems)  (Oct 2019 – Nov 2019)
+* Network File Server (Nov 2019 - Dec 2019)
+  * Implemented a multi-threaded, secure network file server.
+  * Used sockets, client-server systems and security protocols.
+
+* Memory Manager - EECS 482 (Operating Systems) (Oct 2019 – Nov 2019)
   * Design and implement a pager, which is the part of the kernel that manages application processes' virtual address spaces.
   * Utilized page tables, copy-on-write, “FIFO with second-chance” algorithm etc.
 
-* Thread Library - EECS 482 (Operating Systems)  (Sept 2019 – Oct 2019)
+* Thread Library - EECS 482 (Operating Systems) (Sept 2019 – Oct 2019)
   * Creation of a multiple processor capable thread library, including classes to represent mutex, cv, thread, and CPU in C++.
 
 * Instagram Clone - EECS 485 (Web Systems)  (Jan 2019 – April 2019)
   * An Instagram clone implemented with a templated static site generator, and server-side and client-side dynamic pages.
 
-* Map Reduce - EECS 485 (Web Systems)  (Jan 2019 – April 2019)
+* Map Reduce - EECS 485 (Web Systems) (Jan 2019 – April 2019)
   * Implemented a single machine, multi-process, multi-threaded server that will execute user-submitted MapReduce jobs.
 
-* Wikipedia Search Engine - EECS 485 (Web Systems) (Jan 2019 – April 2019)
+* Wikipedia Search Engine - EECS 485 (Web Systems)  (Jan 2019 – April 2019)
   * Build a scalable search engine that is similar to a commercial search engine. Information retrieval based on both tf-idf and PageRank scores. A new search engine interface with two special features: user-driven scoring and summarization.
  
 Skills 	
 =====
-* Languages - C/C++, Python, Java, HTML, CSS, JavaScript, ReactJS, Android Java, SAPUI5
-* Technologies - Xcode, Visual Studio, NetBeans, Intellij IDEA, SAP Cloud platform, Bash Scripting, SQL, oData Services, Git, MongoDB
+* Languages - 	C, C++, Python, Java, OCaml, ReasonML, HTML, CSS, JavaScript, Android Java
+* Libraries - 	Flask, ReactJS, SAPUI5, NumPy, Matplotlib, SciPy, Hadoop MapReduce
+* Technologies - 	Xcode, Visual Studio, NetBeans, Intellij IDEA, Dune, SAP Cloud platform, Bash Scripting, SQL, Git, MongoDB
+* Certification - 	M001-MongoDB Basics (MongoDB University)
+
 
 Competitions
 =====
@@ -76,9 +92,3 @@ Competitions
   * [ISSDC](https://spaceset.org/)
   * World’s premier aerospace engineering competition for the high school students. Every year, hundreds of students from across the world submit design proposals for participating in the illustrious ISSDC Finals, held annually at the Kennedy Space Centre in Florida, USA
   * Runners up
-
-Activities
-=====
-* Co-Founder and Former Head, Research and Development - Blockchain at Michigan
-  * [Blockchain at Michigan](https://www.michiganblockchain.org/)
-  * Responsible for research and development initiatives. Conducted workshops, taught basics of Ethereum and solidity to students and held training intensive lectures for our cohort.
