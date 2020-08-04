@@ -17,6 +17,12 @@ Education
 
 Experience
 ======
+* GitLab Inc. - Software Engineering Intern (May 2020 - Aug 2020)
+    * Worked for the Backend-Editor and Backend-Knowledge teams of GitLab.
+    * Fixed bugs in the static site editor, snippets and wikis, and made improvements to the GitLab handbook.
+    * Developed features and improvements to the GitLab product in a secure, well-tested, and performant way.
+    * Collaborated with Engineers from other teams to maintain a high bar for quality in a fast-paced, iterative environment.
+    
 * GyanSys Inc. - Software Engineering Intern (June 2019 – August 2019)
   * Developed SAPUI5 Web Applications on the SAP Cloud Platform
   * Published a Fiori Mobile Application on the SAP App Store with features such as Platform Independence, Cordova, Kapsel
@@ -71,10 +77,10 @@ Projects
  
 Skills 	
 =====
-* Languages - 	C, C++, Python, Java, OCaml, ReasonML, HTML, CSS, JavaScript, Android Java
+* Languages - 	C, C++, Python, Java, OCaml, ReasonML, Ruby, Rust, HTML, CSS, JavaScript, Android Java
 * Libraries - 	Flask, ReactJS, SAPUI5, NumPy, Matplotlib, SciPy, Hadoop MapReduce
-* Technologies - 	Xcode, Visual Studio, NetBeans, Intellij IDEA, Dune, SAP Cloud platform, Bash Scripting, SQL, Git, MongoDB
-* Certification - 	M001-MongoDB Basics (MongoDB University)
+* Technologies - 	Xcode, Visual Studio, NetBeans, Ruby on Rails, Dune, SAP Cloud platform, Bash Scripting, SQL, Git, MongoDB
+* Certification - 	Agile Software Development, Ruby on Rails, User Experience, MongoDB Basics (MongoDB University)
 
 
 Competitions
