@@ -11,27 +11,27 @@ redirect_from:
 
 Agile Software Development
 ===
-[Certificate](https://dash-mode.github.io/_certificates/CertificateOfCompletion_Agile Software Development.pdf)
+[Certificate](https://dash-mode.github.io/files/CertificateOfCompletion_Agile Software Development.pdf)
 
 Continuous Delivery with GitLab
 ===
-[Certificate](https://dash-mode.github.io/_certificates/CertificateOfCompletion_Continuous Delivery with GitLab.pdf)
+[Certificate](https://dash-mode.github.io/files/CertificateOfCompletion_Continuous Delivery with GitLab.pdf)
 
 Planning a Career in User Experience
 ===
-[Certificate](https://dash-mode.github.io/_certificates/CertificateOfCompletion_Planning a Career in User Experience.pdf)
+[Certificate](https://dash-mode.github.io/files/CertificateOfCompletion_Planning a Career in User Experience.pdf)
 
 Ruby Essentials
 ===
-[Certificate](https://dash-mode.github.io/_certificates/CertificateOfCompletion_Ruby Essential Training_ 1 The Basics.pdf)
+[Certificate](https://dash-mode.github.io/files/CertificateOfCompletion_Ruby Essential Training_ 1 The Basics.pdf)
 
 Ruby on Rails Essentials
 ===
-[Certificate](https://dash-mode.github.io/_certificates/CertificateOfCompletion_Ruby on Rails 6 Essential Training.pdf)
+[Certificate](https://dash-mode.github.io/files/CertificateOfCompletion_Ruby on Rails 6 Essential Training.pdf)
 
 Ruby Testing with RSpec
 ===
-[Certificate](https://dash-mode.github.io/_certificates/CertificateOfCompletion_Ruby_ Testing with RSpec.pdf)
+[Certificate](https://dash-mode.github.io/files/CertificateOfCompletion_Ruby_ Testing with RSpec.pdf)
 
 MongoDB University 
 ===
