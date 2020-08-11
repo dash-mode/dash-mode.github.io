@@ -18,10 +18,9 @@ Education
 Experience
 ======
 * GitLab Inc. - Software Engineering Intern (May 2020 - Aug 2020)
-    * Worked for the Backend-Editor and Backend-Knowledge teams of GitLab.
-    * Fixed bugs in the static site editor, snippets and wikis, and made improvements to the GitLab handbook.
-    * Developed features and improvements to the GitLab product in a secure, well-tested, and performant way.
-    * Collaborated with Engineers from other teams to maintain a high bar for quality in a fast-paced, iterative environment.
+  * Worked in the Backend-Editor and Backend-Knowledge teams of GitLab in a fast-paced, iterative(agile) environment.
+  * Fixed bugs in the static site editor, snippets and wikis, like embedded videos, reorder snippets dynamically, handling non-html requests, etc.
+  * Developed features (using service response in wiki CRUD operations) and improvements to the GitLab product in a secure, well-tested, and performant way.
     
 * GyanSys Inc. - Software Engineering Intern (June 2019 – August 2019)
   * Developed SAPUI5 Web Applications on the SAP Cloud Platform
@@ -41,10 +40,11 @@ Research
 * Future of Programming Lab – Hazel Project
   * https://www.notion.so/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1
   * FP Lab at the University of Michigan designs next-generation user interfaces for next-generation programming languages 
-  * Hazel - live functional programming environment that is able to understand, manipulate, and even run incomplete programs, i.e. programs with holes.
+  * Worked on Hazel - live functional programming environment that is able to understand, manipulate, and even run incomplete programs, i.e. programs with holes.
+  * Developed support for list-literals – recursive data structure that could store holes too and could still be evaluated.
 
 * Free Speech Technology - Development team, Multidisciplinary Design Program
-  * Develop Android/iOS microblogging applications supporting direct and transitive phone-to-phone communication that is resistant to outages, blocking, censorship, and surveillance.
+  * Developed Android/iOS microblogging applications supporting direct and transitive phone-to-phone communication that is resistant to outages, blocking, censorship, and surveillance.
   
 Projects
 =====
